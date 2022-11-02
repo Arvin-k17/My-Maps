@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Arvin-k17/My-Maps/blob/master/mymaps.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Gifs.com](https://gifs.com/gif-maker).
+GIF created with [ezgif.com](https://ezgif.com/video-to-gif).
 
 ## License
 
